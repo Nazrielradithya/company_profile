@@ -24,7 +24,7 @@
                             <h4 class="card-title">Login</h4>
                             <form method="POST" class="my-login-validation" novalidate="">
                                 <div class="form-group">
-                                    <label for="email">E-Mail Address</label>
+                                    <label for="email">E-Mail</label>
                                     <input id="email" type="email" class="form-control" name="email"
                                         value="" required autofocus>
                                     <div class="invalid-feedback">
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div class="footer">
-                        Copyright &copy; 2017 &mdash; Your Company
+                        Copyright &copy; 2024 &mdash; Your Company
                     </div>
                 </div>
             </div>
