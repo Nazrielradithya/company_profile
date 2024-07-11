@@ -146,20 +146,16 @@
                     <div class="column lg-12 s-intro__content-inner">
 
                         <h1 class="s-intro__content-title">
-                            We provide creative <br>
-                            solutions to turn your <br>
-                            ideas into digital reality.
+                            kami menciptakan inovasi dan <br>
+                            teknologi yang mengubah cara<br>
+                            dunia bekerja
                         </h1>
 
                         <div class="s-intro__content-buttons">
-                            <a href="#download" class="btn btn--stroke s-intro__content-btn smoothscroll">More About
+                            <a href="#download" class="btn btn--stroke s-intro__content-btn smoothscroll">About
                                 Us</a>
-                            <a href="https://player.vimeo.com/video/14592941?color=f26522&title=0&byline=0&portrait=0"
-                                class="s-intro__content-video-btn">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: ;msFilter:;">
-                                    <path d="M7 6v12l10-6z"></path>
-                                </svg>
+                            <path d="M7 6v12l10-6z"></path>
+                            </svg>
                             </a>
                         </div>
 
@@ -182,18 +178,20 @@
 
                 <div class="row section-header" data-num="01">
                     <h3 class="column lg-12 section-header__pretitle pretitle text-pretitle">Who We Are</h3>
-                    <div class="column lg-6 stack-on-1100 section-header__primary">
+                    <div class="column lg-12 stack-on-1100 section-header__primary">
                         <h2 class="title text-display-1">
-                            Mueller is a branding agency based in Somewhere.
-                            We shape brand identities and design thoughtful
-                            digital experiences.
+                            QuantumLeap Technologies kami berdedikasi untuk mendorong batasan inovasi dan menciptakan
+                            solusi teknologi yang mengubah cara dunia bekerja. Dengan tim ahli yang berpengalaman dan
+                            visi yang berani
                         </h2>
                     </div>
                     <div class="column lg-6 stack-on-1100 section-header__secondary">
                         <p class="desc">
-                            Deleniti dolorem reiciendis repellat labore velit dolor nihil qui.
-                            Deserunt sapiente odio quos quisquam dolorem cumque et omnis.
-                            Minima quibusdam sequi consequatur magni non sunt est.
+                            kami memimpin dalam pengembangan perangkat lunak canggih, layanan cloud yang aman, dan
+                            solusi IoT yang cerdas.
+
+                            Misi kami adalah memberikan nilai luar biasa kepada klien melalui produk dan layanan yang
+                            andal dan futuristik.
                         </p>
                     </div>
                 </div> <!-- end section-header -->
@@ -270,7 +268,7 @@
                     <h3 class="column lg-12 section-header__pretitle text-pretitle">What We Do</h3>
                     <div class="column lg-6 stack-on-1100 section-header__primary">
                         <h2 class="title text-display-1">
-                            Our services are tailored to make your business grow and stand out.
+                            Berikut Adalah Layanan Yang Perusahaan Kami Miliki
                         </h2>
                     </div>
                     <div class="column lg-6 stack-on-1100 section-header__secondary">
@@ -294,14 +292,13 @@
                                     </path>
                                 </svg>
                             </div>
-                            <h3 class="h5">Brand Identity</h3>
+                            <h3 class="h5">Pengembangan Perangkat Lunak Kustom</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Quibusdam quis autem voluptatibus earum vel ex error ea magni. Rerum quam quos. Aut
-                                asperiores
-                                sit mollitia. Rem neque et voluptatem eos quia sed eligendi et. Eaque velit eligendi ut
-                                magnam. Cumque ducimus laborum doloribus facere maxime vel earum quidem enim suscipit.
+                                Kami mengkhususkan diri dalam merancang dan mengembangkan perangkat lunak kustom yang
+                                disesuaikan dengan kebutuhan bisnis Anda. Mulai dari aplikasi mobile hingga sistem
+                                enterprise, kami menyediakan solusi yang dapat meningkatkan efisiensi dan produktivitas.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -316,14 +313,14 @@
                                     </path>
                                 </svg>
                             </div>
-                            <h3 class="h5">Product Design</h3>
+                            <h3 class="h5">Solusi Cloud dan Infrastruktur</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium.
-                                Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-                                veritatis.
-                                Sunt suscipit voluptas ipsa in tempora esse soluta sint aliquam rhoncus elit.
+                                QuantumLeap Technologies menawarkan layanan cloud yang aman dan skalabel untuk mendukung
+                                pertumbuhan bisnis Anda. Dengan layanan seperti migrasi ke cloud, manajemen
+                                infrastruktur, dan optimasi biaya, kami memastikan Anda mendapatkan manfaat maksimal
+                                dari investasi cloud Anda.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -338,14 +335,13 @@
                                     </path>
                                 </svg>
                             </div>
-                            <h3 class="h5">Frontend Development</h3>
+                            <h3 class="h5">Internet of Things (IoT)</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Perferendis quia nemo perspiciatis. Et amet aut ut sint quis culpa quis impedit.
-                                Et id eum quae quae ea et. Et sed quae qui veritatis deserunt. Facilis consequuntur
-                                qui aut deleniti. Autem ipsa ratione dolorum consequuntur. Maxime unde eos quibusdam
-                                maxime excepturi.
+                                Kami mengembangkan solusi IoT cerdas yang membantu bisnis mengumpulkan data secara
+                                real-time dan mengotomatiskan proses. Dari perangkat yang terhubung hingga platform
+                                analitik, kami membantu Anda membuat keputusan berbasis data yang lebih baik.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -361,15 +357,13 @@
                                     <path d="M6 12h4v2H6z"></path>
                                 </svg>
                             </div>
-                            <h3 class="h5">UX Research</h3>
+                            <h3 class="h5">Keamanan Siber</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Qui est non similique. Veniam cupiditate sit est dolores nobis vitae illum.
-                                Sunt nulla voluptate sit corporis ullam esse id minima optio. Perferendis aliquam
-                                placeat
-                                ratione magni nihil sed hic aperiam aperiam. Totam nihil molestiae sed et possimus
-                                dolore ipsa omnis aliquid. Ea et mollitia.
+                                Melindungi data dan sistem Anda adalah prioritas utama kami. Kami menawarkan layanan
+                                keamanan siber yang komprehensif, termasuk penilaian kerentanan, pemantauan ancaman, dan
+                                respons insiden, untuk menjaga bisnis Anda tetap aman dari serangan siber.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -384,14 +378,13 @@
                                     </path>
                                 </svg>
                             </div>
-                            <h3 class="h5">E-Commerce</h3>
+                            <h3 class="h5">Pengembangan Aplikasi Mobile</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Quos numquam et ea. Non fuga quidem pariatur. Repellendus doloremque unde modi aut.
-                                Quo cumque porro eum saepe quibusdam odit eligendi. Doloribus qui sit repellendus
-                                cupiditate.
-                                Sed porro magnam dignissimos et facilis animi quis tempora. Rerum cum molestiae.
+                                Dengan tim pengembang aplikasi mobile yang ahli, kami menciptakan aplikasi iOS dan
+                                Android yang intuitif dan berkinerja tinggi. Dari ide hingga peluncuran, kami mendukung
+                                Anda di setiap langkah.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -406,15 +399,13 @@
                                     </path>
                                 </svg>
                             </div>
-                            <h3 class="h5">Illustration</h3>
+                            <h3 class="h5">Konsultasi Teknologi</h3>
                         </div>
                         <div class="list-block__text">
                             <p>
-                                Quasi in nulla maiores minus cupiditate tenetur ut officia sint. Quis consequatur
-                                officiis dolor nulla fuga itaque cum aut. Ut ut quis omnis dolor. Qui modi voluptatem
-                                eum.
-                                Minus numquam consequatur incidunt vel maiores nostrum. Commodi dignissimos sed
-                                laudantium aliquam tempora.
+                                Tim konsultan kami bekerja sama dengan Anda untuk mengidentifikasi peluang teknologi
+                                yang dapat meningkatkan operasi bisnis Anda. Kami menawarkan strategi teknologi yang
+                                disesuaikan dan implementasi solusi untuk membantu Anda mencapai tujuan bisnis Anda.
                             </p>
                         </div>
                     </div> <!-- end list-block__item -->
@@ -809,7 +800,7 @@
                     <h2 class="title text-display-1">
                         Have an idea or an epic project in mind? Talk to us.
                         Let's work together and make something great.
-                        Drop us a line at <a href="mailto:#0" title="">hello@mueller.com</a>
+                        Drop us a line at <a href="mailto:#0" title="">Kelompok7@gmail.com</a>
                     </h2>
                 </div>
                 <div class="column lg-6 stack-on-1100 section-header__secondary">
@@ -824,7 +815,7 @@
                     </div>
 
                     <div class="contact-block">
-                        <h6>Contact Infos</h6>
+                        <h6>Contact</h6>
                         <ul class="contact-list">
                             <li><a href="tel:197-543-2345">+197 543 2345</a></li>
                             <li><a href="tel:197-123-9876">+197 123 9876</a></li>
@@ -917,9 +908,7 @@
 
                 <div class="column lg-6 tab-12 s-footer__bottom-right">
                     <div class="ss-copyright">
-                        <span>© Copyright Mueller 2022</span>
-                        <span>Design by <a href="https://www.styleshout.com/">StyleShout</a> Distribution By <a
-                                href="https://themewagon.com">ThemeWagon</a> </span>
+                        <span>© Copyright Kelompok 7 2024</span>
                     </div>
                 </div>
 
@@ -939,8 +928,8 @@
 
         <!-- Java Script
     ================================================== -->
-        <script src="{{asset('storage')}}/js/plugins.js"></script>
-        <script src="{{asset('storage')}}/js/main.js"></script>
+        <script src="{{ asset('storage') }}/js/plugins.js"></script>
+        <script src="{{ asset('storage') }}/js/main.js"></script>
 
 </body>
 
