@@ -444,12 +444,11 @@
                             <article class="brick brick--double entry">
                                 <a href="#modal-01" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/white_turban@2x.jpg"
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/software-management.jpg"
                                             alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">Frontend Design</div>
-                                        <h4 class="entry__title">White Turban</h4>
+                                        <h4 class="entry__title">Custom Software Development</h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -457,12 +456,11 @@
                             <article class="brick brick--double entry">
                                 <a href="#modal-02" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/caffeine_and_tulips@2x.jpg"
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/IoT-Healthcare-1.jpg"
                                             alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">Brand Identity</div>
-                                        <h4 class="entry__title">Caffeine & Tulips</h4>
+                                        <h4 class="entry__title">IoT Solutions for Facility </h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -470,12 +468,11 @@
                             <article class="brick entry">
                                 <a href="#modal-03" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/grayscale@2x.jpg"
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/aplication-health.jpg"
                                             alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">Product Design</div>
-                                        <h4 class="entry__title">Grayscale</h4>
+                                        <h4 class="entry__title">Mobile Apps for Healthcare</h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -483,11 +480,11 @@
                             <article class="brick entry">
                                 <a href="#modal-04" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/lamp@2x.jpg" alt="">
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/Big-Data.png"
+                                            alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">E-Commerce</div>
-                                        <h4 class="entry__title">Lamp</h4>
+                                        <h4 class="entry__title">Big Data Analytics Platform for E-commerce</h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -495,12 +492,11 @@
                             <article class="brick entry">
                                 <a href="#modal-05" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/tropical@2x.jpg"
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/AI-ML.jpg"
                                             alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">Frontend Design</div>
-                                        <h4 class="entry__title">Tropical</h4>
+                                        <h4 class="entry__title">Implementation of AI and Machine Learning </h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -508,12 +504,11 @@
                             <article class="brick entry">
                                 <a href="#modal-06" class="entry__link">
                                     <div class="entry__thumb">
-                                        <img src="{{ asset('storage') }}/images/folio/woodcraft@2x.jpg"
+                                        <img src="{{ asset('storage') }}/images/folio/gallery/chatbot.png"
                                             alt="">
                                     </div>
                                     <div class="entry__info">
-                                        <div class="entry__cat">E-Commerce</div>
-                                        <h4 class="entry__title">Woodcraft</h4>
+                                        <h4 class="entry__title">AI-Based Chatbots for Customer Service</h4>
                                     </div>
                                 </a>
                             </article> <!-- entry -->
@@ -527,15 +522,16 @@
                 -------------------------------------------- -->
                 <div id="modal-01" hidden>
                     <div class="modal-popup">
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-turban.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/software-management.jpg"
+                            alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>White Turban</h5>
-                            <p>Odio soluta enim quos sit asperiores rerum rerum repudiandae cum. Vel voluptatem alias
-                                qui assumenda iure et expedita voluptatem. Ratione officiis quae.</p>
+                            <h5>Custom Software Development</h5>
+                            <p>QuantumLeap Technologies bekerja sama dengan perusahaan ritel besar untuk mengembangkan
+                                perangkat lunak manajemen inventaris kustom. Solusi ini memungkinkan pelacakan
+                                inventaris secara real-time, otomatisasi pemesanan ulang, dan analisis data penjualan
+                                untuk mengoptimalkan stok.</p>
                             <ul class="modal-popup__cat">
-                                <li>UX Research</li>
-                                <li>Frontend Design</li>
                             </ul>
                         </div>
 
@@ -545,14 +541,15 @@
 
                 <div id="modal-02" hidden>
                     <div class="modal-popup">
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-tulips.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/IoT-Healthcare-1.jpg" alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>Caffeine & Tulips</h5>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-                                auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                            <h5>IoT Solution for Facility</h5>
+                            <p>QuantumLeap Technologies mengembangkan solusi IoT untuk pengelolaan fasilitas sebuah
+                                gedung perkantoran pintar. Proyek ini mencakup sensor terhubung yang memantau penggunaan
+                                energi, sistem HVAC, dan keamanan gedung, memungkinkan pengelolaan yang lebih efisien
+                                dan pengurangan biaya operasional.</p>
                             <ul class="modal-popup__cat">
-                                <li>Brand Identity</li>
                             </ul>
                         </div>
 
@@ -562,14 +559,14 @@
 
                 <div id="modal-03" hidden>
                     <div class="modal-popup">
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-grayscale.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/aplication-health.jpg" alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>Grayscale</h5>
-                            <p>Exercitationem reprehenderit quod explicabo consequatur aliquid ut magni ut. Deleniti quo
-                                corrupti illum velit eveniet ratione necessitatibus ipsam mollitia.</p>
+                            <h5>Mobile Apps for Healthcare</h5>
+                            <p>QuantumLeap Technologies mengembangkan aplikasi mobile untuk sebuah penyedia layanan
+                                kesehatan. Aplikasi ini memungkinkan pasien untuk menjadwalkan janji temu, mengakses
+                                catatan medis mereka, dan berkonsultasi dengan dokter melalui video call.</p>
                             <ul class="modal-popup__cat">
-                                <li>Product Design</li>
                             </ul>
                         </div>
 
@@ -579,14 +576,15 @@
 
                 <div id="modal-04" hidden>
                     <div class="modal-popup">
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-lamp.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/Big-Data.png" alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>The Lamp</h5>
-                            <p>Dolores velit qui quos nobis. Aliquam delectus voluptas quos possimus non voluptatem
-                                voluptas voluptas. Est doloribus eligendi porro doloribus voluptatum.</p>
+                            <h5>Big Data Analytics Platform for E-commerce</h5>
+                            <p>QuantumLeap Technologies bekerja dengan platform e-commerce untuk mengembangkan sistem
+                                analitik big data yang menganalisis perilaku pelanggan dan tren penjualan. Solusi ini
+                                memberikan wawasan yang dapat ditindaklanjuti untuk kampanye pemasaran yang lebih
+                                efektif dan personalisasi pengalaman pelanggan.</p>
                             <ul class="modal-popup__cat">
-                                <li>E-Commerce</li>
                             </ul>
                         </div>
 
@@ -597,14 +595,15 @@
                 <div id="modal-05" hidden>
                     <div class="modal-popup">
 
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-tropical.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/AI-ML.jpg" alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>Tropical</h5>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-                                auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                            <h5>Implemention of AI and Machine Learning</h5>
+                            <p>QuantumLeap Technologies mengimplementasikan solusi AI dan Machine Learning untuk sebuah
+                                perusahaan logistik guna memprediksi permintaan barang. Sistem ini membantu
+                                mengoptimalkan rantai pasok, mengurangi biaya penyimpanan, dan meningkatkan kepuasan
+                                pelanggan dengan pemenuhan pesanan yang lebih tepat waktu.</p>
                             <ul class="modal-popup__cat">
-                                <li>Frontend Design</li>
                             </ul>
                         </div>
 
@@ -614,15 +613,15 @@
 
                 <div id="modal-06" hidden>
                     <div class="modal-popup">
-                        <img src="{{ asset('storage') }}/images/folio/gallery/g-woodcraft.jpg" alt="">
+                        <img src="{{ asset('storage') }}/images/folio/gallery/chatbot.png" alt="">
 
                         <div class="modal-popup__desc">
-                            <h5>Woodcraft</h5>
-                            <p>Quisquam vel libero consequuntur autem voluptas. Qui aut vero. Omnis fugit mollitia
-                                cupiditate voluptas. Aenean sollicitudin, lorem quis bibendum auctor.</p>
+                            <h5>AI-Based Chatbots for Customer Service</h5>
+                            <p>QuantumLeap Technologies mengembangkan chatbot berbasis AI untuk meningkatkan layanan
+                                pelanggan di perusahaan e-commerce. Chatbot ini dapat menjawab pertanyaan umum, membantu
+                                pelanggan dalam proses pembelian, dan memberikan dukungan teknis, sehingga mengurangi
+                                beban tim layanan pelanggan.</p>
                             <ul class="modal-popup__cat">
-                                <li>E-Commerce</li>
-                                <li>Product Design</li>
                             </ul>
                         </div>
 
