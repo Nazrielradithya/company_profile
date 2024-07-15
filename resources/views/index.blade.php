@@ -182,7 +182,7 @@
                         <h2 class="title text-display-1">
                             QuantumLeap Technologies kami berdedikasi untuk mendorong batasan inovasi dan menciptakan
                             solusi teknologi yang mengubah cara dunia bekerja. Dengan tim ahli yang berpengalaman dan
-                            visi yang berani
+                            visi yang berani.
                         </h2>
                     </div>
                     <div class="column lg-6 stack-on-1100 section-header__secondary">
